@@ -9,13 +9,13 @@
     --type-fuego: #F08030;
     --type-agua: #6890F0;
     --type-planta: #78C850;
-    --type-electrico: #F8D030;
+    --type-eléctrico: #F8D030;
     --type-hielo: #98D8D8;
     --type-lucha: #C03028;
     --type-veneno: #A040A0;
     --type-tierra: #E0C068;
     --type-volador: #A890F0;
-    --type-psiquico: #F85888;
+    --type-psíquico: #F85888;
     --type-bicho: #A8B820;
     --type-roca: #B8A038;
     --type-fantasma: #705898;
@@ -65,8 +65,8 @@ button {
     color: var(--clr-negro);
 }
 
-.electrico {
-    background-color: var(--type-electrico);
+.eléctrico {
+    background-color: var(--type-eléctrico);
     color: var(--clr-negro);
 }
 
@@ -95,8 +95,8 @@ button {
     color: var(--clr-negro);
 }
 
-.psiquico {
-    background-color: var(--type-psiquico);
+.psíquico {
+    background-color: var(--type-psíquico);
     color: var(--clr-negro);
 }
 
